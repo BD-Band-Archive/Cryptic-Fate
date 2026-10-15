@@ -66,8 +66,11 @@ Released on cassette tape in 1995, *Ends Are Forever* is Cryptic Fate's groundbr
 
 | | |
 | :---: | :---: |
-| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BCassette%20Sleeve-Front%5D.jpg" width="300" alt="1. Cassette Sleeve Front" /><br><sub><b>1. Cassette Sleeve Front</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BCassette%20Sleeve-Inside%5D.jpg" width="300" alt="2. Cassette Sleeve Inside" /><br><sub><b>2. Cassette Sleeve Inside</b></sub> |
-| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20Are%20Forever%20%5BFirst%20Tape-1%5D.jpg" width="300" alt="3. Original Tape" /><br><sub><b>3. Original Tape</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BConcert%20Poster%5D.jpg" width="300" alt="4. Concert Poster" /><br><sub><b>4. Concert Poster</b></sub> |
+| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BCassette%20Sleeve-Front%5D.jpg" width="300" alt="1. Cassette Sleeve (Front)" /><br><sub><b>1. Cassette Sleeve (Front)</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BCassette%20Sleeve-Front2%5D.jpg" width="300" alt="2. Cassette Sleeve (Front Alternative)" /><br><sub><b>2. Cassette Sleeve (Front Alternative)</b></sub> |
+| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%2Bare%2BForever%2B-5BArtwork-5D.jpg" width="300" alt="3. Cover Artwork Painting" /><br><sub><b>3. Cover Artwork Painting</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BCassette%20Sleeve-Inside%5D.jpg" width="300" alt="4. Cassette Sleeve (Inside)" /><br><sub><b>4. Cassette Sleeve (Inside)</b></sub> |
+| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20Are%20Forever%20%5BFirst%20Tape-1%5D.jpg" width="300" alt="5. Original Tape (Side A)" /><br><sub><b>5. Original Tape (Side A)</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20Are%20Forever%20%5BFirst%20Tape-2%5D.jpg" width="300" alt="6. Original Tape (Side B)" /><br><sub><b>6. Original Tape (Side B)</b></sub> |
+| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BLyrics%5D.png" width="300" alt="7. Official Lyrics" /><br><sub><b>7. Official Lyrics</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BConcert%20Poster%5D.jpg" width="300" alt="8. Concert Poster" /><br><sub><b>8. Concert Poster</b></sub> |
+| <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BPoster%5D.jpg" width="300" alt="9. Promo Poster (Color)" /><br><sub><b>9. Promo Poster (Color)</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BPoster2%5D.jpg" width="300" alt="10. Promo Poster (Monochrome)" /><br><sub><b>10. Promo Poster (Monochrome)</b></sub> |
 
 ---
 
@@ -106,8 +109,9 @@ Released in 2002 by G-Series, *Sreshtho* ("The Best") is Cryptic Fate's defining
 | | |
 | :---: | :---: |
 | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BFront-Re-Release%5D.jpg" width="300" alt="2. Re-Release Cover" /><br><sub><b>2. Re-Release Cover</b></sub> |
-| <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BInset-Front%5D.jpg" width="300" alt="3. Tray Inlay" /><br><sub><b>3. Tray Inlay</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BCD%5D.jpg" width="300" alt="4. Compact Disc (CD)" /><br><sub><b>4. Compact Disc (CD)</b></sub> |
-| <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBooklet%5D.jpg" width="300" alt="5. Booklet" /><br><sub><b>5. Booklet</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBack%5D.jpg" width="300" alt="6. Back Cover" /><br><sub><b>6. Back Cover</b></sub> |
+| <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%2B-5BArtwork-5D.jpg" width="300" alt="3. Gatefold Artwork" /><br><sub><b>3. Gatefold Artwork</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BInset-Front%5D.jpg" width="300" alt="4. Tray Inlay" /><br><sub><b>4. Tray Inlay</b></sub> |
+| <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBooklet%5D.jpg" width="300" alt="6. Booklet" /><br><sub><b>6. Booklet</b></sub> |
+| <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
 
 ---
 
@@ -144,8 +148,17 @@ Released in 2006 under G-Series, *Danob* ("The Monster") is Cryptic Fate's ambit
 
 | | |
 | :---: | :---: |
-| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob+-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
-| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BCD%5D.jpg" width="300" alt="3. Compact Disc (CD)" /><br><sub><b>3. Compact Disc (CD)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBack%5D.jpg" width="300" alt="4. Back Cover" /><br><sub><b>4. Back Cover</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%2B-5BArtwork-5D.jpg" width="300" alt="2. Gatefold Artwork" /><br><sub><b>2. Gatefold Artwork</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-1%5D.jpg" width="300" alt="3. Booklet (Page 1)" /><br><sub><b>3. Booklet (Page 1)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-2%5D.jpg" width="300" alt="4. Booklet (Page 2)" /><br><sub><b>4. Booklet (Page 2)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-3%5D.jpg" width="300" alt="5. Booklet (Page 3)" /><br><sub><b>5. Booklet (Page 3)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-4%5D.jpg" width="300" alt="6. Booklet (Page 4)" /><br><sub><b>6. Booklet (Page 4)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-5%5D.jpg" width="300" alt="7. Booklet (Page 5)" /><br><sub><b>7. Booklet (Page 5)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-6%5D.jpg" width="300" alt="8. Booklet (Page 6)" /><br><sub><b>8. Booklet (Page 6)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-7%5D.jpg" width="300" alt="9. Booklet (Page 7)" /><br><sub><b>9. Booklet (Page 7)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-8%5D.jpg" width="300" alt="10. Booklet (Page 8)" /><br><sub><b>10. Booklet (Page 8)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-9%5D.jpg" width="300" alt="11. Booklet (Page 9)" /><br><sub><b>11. Booklet (Page 9)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBooklet-10%5D.jpg" width="300" alt="12. Booklet (Page 10)" /><br><sub><b>12. Booklet (Page 10)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%281%29.jpg" width="300" alt="13. Lyrics (Page 1)" /><br><sub><b>13. Lyrics (Page 1)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%282%29.jpg" width="300" alt="14. Lyrics (Page 2)" /><br><sub><b>14. Lyrics (Page 2)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%283%29.jpg" width="300" alt="15. Lyrics (Page 3)" /><br><sub><b>15. Lyrics (Page 3)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%284%29.jpg" width="300" alt="16. Lyrics (Page 4)" /><br><sub><b>16. Lyrics (Page 4)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%285%29.jpg" width="300" alt="17. Lyrics (Page 5)" /><br><sub><b>17. Lyrics (Page 5)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%286%29.jpg" width="300" alt="18. Lyrics (Page 6)" /><br><sub><b>18. Lyrics (Page 6)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BInset-Back%5D.jpg" width="300" alt="19. Tray Inlay" /><br><sub><b>19. Tray Inlay</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BCD%5D.jpg" width="300" alt="20. Compact Disc (CD)" /><br><sub><b>20. Compact Disc (CD)</b></sub> |
+| <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBack%5D.jpg" width="300" alt="21. Back Cover" /><br><sub><b>21. Back Cover</b></sub> |  |
 
 ---
 
@@ -208,10 +221,20 @@ Released in 2024 after years of meticulous historical research and conceptual co
 - **Band:** Cryptic Fate
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
+<p align="center">
+  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Cryptic Fate Singles Cover" />
+</p>
+
 ### 🎵 Tracklist (One-Tap Download)
 
 - [**Cryptic Fate - Bhoboghure 2022**](https://media.githubusercontent.com/media/GhostDog45/Cryptic-Fate/master/Singles/Cryptic%20Fate%20-%20Bhoboghure%202022.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Cryptic-Fate/master/Singles/Cryptic%20Fate%20-%20Bhoboghure%202022.flac?download=true)
 - [**Cryptic Fate - Kushiyara**](https://media.githubusercontent.com/media/GhostDog45/Cryptic-Fate/master/Singles/Cryptic%20Fate%20-%20Kushiyara.flac?download=true) &nbsp; [![Download Track](https://img.shields.io/badge/⬇_Download-FLAC-2ea44f?style=flat-square&logo=git-lfs)](https://media.githubusercontent.com/media/GhostDog45/Cryptic-Fate/master/Singles/Cryptic%20Fate%20-%20Kushiyara.flac?download=true)
+
+### 🖼️ Album Artwork
+
+| | |
+| :---: | :---: |
+| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
 
 ---
 
