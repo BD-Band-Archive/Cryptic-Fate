@@ -216,7 +216,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 ---
 
 <a id="7-charpotro-2001"></a>
-## 7. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Charpotro%20%282001%29)
+## 7. [Charpotro (2001)](https://github.com/GhostDog45/Mixed-Albums#charpotro-2001)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -225,7 +225,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 ---
 
 <a id="8-projonmo-2002"></a>
-## 8. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Projonmo%20%282002%29)
+## 8. [Projonmo (2002)](https://github.com/GhostDog45/Mixed-Albums#projonmo-2002)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -261,7 +261,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 ---
 
 <a id="12-lokayot-2004"></a>
-## 12. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Lokayot%20%282004%29)
+## 12. [Lokayot (2004)](https://github.com/GhostDog45/Mixed-Albums#lokayot-2004)
 
 ### 🎵 Tracklist (One-Tap Download)
 
@@ -288,7 +288,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 ---
 
 <a id="15-rock-404-2010"></a>
-## 15. [Rock 404 (2010)](https://github.com/GhostDog45/Mixed-Albums/tree/master/Rock%20404%20%282010%29)
+## 15. [Rock 404 (2010)](https://github.com/GhostDog45/Mixed-Albums#rock-404-2010)
 
 ### 🎵 Tracklist (One-Tap Download)
 
