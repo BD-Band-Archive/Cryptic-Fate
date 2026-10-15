@@ -234,7 +234,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="2. folder" /><br><sub><b>2. folder</b></sub> |
+| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |
 
 ---
 
