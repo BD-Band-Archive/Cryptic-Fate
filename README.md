@@ -72,6 +72,12 @@ Released on cassette tape in 1995, *Ends Are Forever* is Cryptic Fate's groundbr
 | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BLyrics%5D.png" width="300" alt="7. Official Lyrics" /><br><sub><b>7. Official Lyrics</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BConcert%20Poster%5D.jpg" width="300" alt="8. Concert Poster" /><br><sub><b>8. Concert Poster</b></sub> |
 | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BPoster%5D.jpg" width="300" alt="9. Promo Poster (Color)" /><br><sub><b>9. Promo Poster (Color)</b></sub> | <img src="Ends%20Are%20Forever%20%281995%29/Album%20Cover/Ends%20are%20Forever%20%5BPoster2%5D.jpg" width="300" alt="10. Promo Poster (Monochrome)" /><br><sub><b>10. Promo Poster (Monochrome)</b></sub> |
 
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** BanglaCdCovers (Shohail Ibne Mahbub / XTR)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
+
 ---
 
 <a id="2-sreshtho-2002"></a>
@@ -112,6 +118,12 @@ Released in 2002 by G-Series, *Sreshtho* ("The Best") is Cryptic Fate's defining
 | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%2B-5BArtwork-5D.jpg" width="300" alt="3. Gatefold Artwork" /><br><sub><b>3. Gatefold Artwork</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BInset-Front%5D.jpg" width="300" alt="4. Tray Inlay" /><br><sub><b>4. Tray Inlay</b></sub> |
 | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BCD%5D.jpg" width="300" alt="5. Compact Disc (CD)" /><br><sub><b>5. Compact Disc (CD)</b></sub> | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBooklet%5D.jpg" width="300" alt="6. Booklet" /><br><sub><b>6. Booklet</b></sub> |
 | <img src="Sreshtho%20%282002%29/Album%20Cover/Sreshtho%20%5BBack%5D.jpg" width="300" alt="7. Back Cover" /><br><sub><b>7. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** BanglaCdCovers (Shohail Ibne Mahbub / XTR)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -159,6 +171,12 @@ Released in 2006 under G-Series, *Danob* ("The Monster") is Cryptic Fate's ambit
 | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%285%29.jpg" width="300" alt="17. Lyrics (Page 5)" /><br><sub><b>17. Lyrics (Page 5)</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BLyrics%5D%20%286%29.jpg" width="300" alt="18. Lyrics (Page 6)" /><br><sub><b>18. Lyrics (Page 6)</b></sub> |
 | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BInset-Back%5D.jpg" width="300" alt="19. Tray Inlay" /><br><sub><b>19. Tray Inlay</b></sub> | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BCD%5D.jpg" width="300" alt="20. Compact Disc (CD)" /><br><sub><b>20. Compact Disc (CD)</b></sub> |
 | <img src="Danob%20%282006%29/Album%20Cover/Danob%20%5BBack%5D.jpg" width="300" alt="21. Back Cover" /><br><sub><b>21. Back Cover</b></sub> |  |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** BanglaCdCovers (Shohail Ibne Mahbub / XTR)
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
@@ -235,6 +253,12 @@ Released in 2024 after years of meticulous historical research and conceptual co
 | | |
 | :---: | :---: |
 | <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |
+
+
+### 💿 CD Ripper & Preservation Credit
+
+- **Preserved & Ripped by:** @music_ripper_bot / Bangla Flac Community
+- **Source:** Original Compact Disc (CD) Lossless Audio Archive
 
 ---
 
