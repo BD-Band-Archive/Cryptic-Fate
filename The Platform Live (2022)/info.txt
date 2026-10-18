@@ -1,0 +1,25 @@
+Album Name: The Platform Live
+Album Type: Band
+Release Year: 2022
+Genre: Hard Rock & Metal
+Total Songs: 6
+Track List:
+01. Raater Shesh
+02. Onadorer Shontan
+03. Jatra
+04. Amar Shathe Aay
+05. Protibad
+06. Bhoboghurey
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 1 103 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 44.1 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf60.16.100

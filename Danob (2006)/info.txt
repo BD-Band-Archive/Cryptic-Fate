@@ -1,0 +1,30 @@
+Album Name: Danob
+Album Type: Band
+Release Year: 2006
+Genre: Heavy Metal
+Total Songs: 11
+Track List:
+01. Ahoban
+02. Raag
+03. Nidra
+04. Agniveena
+05. Anuprerona
+06. Daako Amar Naam
+07. Danob
+08. Aloy Badha Rater Tukro
+09. Asroy
+10. Jatra
+11. Ronoklanti
+
+Media Info:
+Audio:
+Format                                   : FLAC
+Format/Info                              : Free Lossless Audio Codec
+Bit rate mode                            : Variable
+Bit rate                                 : 967 kb/s
+Channel(s)                               : 2 channels
+Channel layout                           : L R
+Sampling rate                            : 48.0 kHz
+Bit depth                                : 16 bits
+Compression mode                         : Lossless
+Writing library                          : Lavf55.33.100
