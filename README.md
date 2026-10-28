@@ -240,7 +240,7 @@ Released in 2024 after years of meticulous historical research and conceptual co
 - **Audio Quality:** Lossless FLAC (16-bit / 44.1 kHz)
 
 <p align="center">
-  <img src="Singles/Album%20Cover/folder.jpg" width="300" alt="Cryptic Fate Singles Cover" />
+  <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="Cryptic Fate Singles Cover" />
 </p>
 
 ### 🎵 Tracklist (One-Tap Download)
@@ -252,7 +252,8 @@ Released in 2024 after years of meticulous historical research and conceptual co
 
 | | |
 | :---: | :---: |
-| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> |
+| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Singles%20%5BFront%5D.jpg" width="300" alt="1. Front Cover" /><br><sub><b>1. Front Cover</b></sub> | <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Bhoboghure%202022.jpg" width="300" alt="2. Cryptic Fate - Bhoboghure 2022" /><br><sub><b>2. Cryptic Fate - Bhoboghure 2022</b></sub> |
+| <img src="Singles/Album%20Cover/Cryptic%20Fate%20-%20Kushiyara.jpg" width="300" alt="3. Cryptic Fate - Kushiyara" /><br><sub><b>3. Cryptic Fate - Kushiyara</b></sub> |  |
 
 
 ### 💿 CD Ripper & Preservation Credit
